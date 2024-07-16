@@ -1,0 +1,140 @@
+/* body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+} */
+/* 
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center; Adjusts spacing */
+    /* align-items: center;
+    width: 100vw;
+    padding: 10px 20px;
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #ddd; Adds a bottom border */
+/*     
+}
+
+.meme-generator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    display: flex;
+    margin-left: 100px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 30px;
+}
+
+button {
+    color: #108070;
+    font-weight: bold;
+    font-size: larger;
+    background-color: white;
+    border-bottom: none;
+    border-top: none;
+    padding: 10px;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+}
+
+section {
+    background-color: rgb(247, 238, 238);
+    padding: 25px 50px;
+    height: fit-content;
+}
+
+section img {
+    width:60%;
+    height: 60%;
+}
+
+.heading {
+    font-weight: bold;
+    font-size: 1.5em;
+    font-family: inherit;
+}
+
+.meme-by {
+    display: none;
+    justify-content: center;
+    align-items: center;
+} */
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+}
+
+.meme-generator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 30px;
+}
+
+button {
+    color: #108070;
+    font-weight: bold;
+    font-size: larger;
+    background-color: white;
+    border-bottom: none;
+    border-top: none;
+    padding: 10px;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+}
+
+section {
+    background-color: rgb(247, 238, 238);
+    padding: 25px 50px;
+    height: fit-content;
+}
+
+section img {
+    width: 60%;
+    height: 60%;
+}
+
+.heading {
+    font-weight: bold;
+    font-size: 1.5em;
+    font-family: inherit;
+}
+
+.meme-by {
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
